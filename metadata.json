@@ -1,0 +1,6 @@
+{
+  "name": "Privstack - Secure Local Vault",
+  "description": "A privacy-first, secure local vault web application running entirely in your browser with fake vault decoy, intruder selfie capture, albums, media player, and encrypted notes.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
